@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start":"node exercise-basic/ts-basic.js",
-    "dev":"ts-node exercise-basic/ts-basic.ts"
+    "start":"node EXE/exercise-interface/ts-interface.js",
+    "dev":"ts-node  EXE/exercise-interface/ts-interface.ts"
   },
   "keywords": [],
   "author": "",
